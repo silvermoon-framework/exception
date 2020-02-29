@@ -1,7 +1,7 @@
 {
   "name": "silvermoon/exception",
   "type": "silvermoon-component",
-  "description": "Exception collection",
+  "description": "Silvermoon framework exception collection",
   "keywords": ["framework"],
   "homepage": "https://silvermoon.tech",
   "license": "MIT",
